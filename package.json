@@ -1,0 +1,10 @@
+{
+  "name": "@amethyst-writer/scripts",
+  "version": "1.0.0",
+  "description": "Amethyst Writer shared development scripts",
+  "author": "",
+  "license": "ISC",
+  "engines": {
+    "node": ">=14.18.0"
+  }
+}
